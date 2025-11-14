@@ -1,2 +1,2 @@
-# -Gencodeus
+# Gencodeus
 Codissiah.say( "hello, world\n")
